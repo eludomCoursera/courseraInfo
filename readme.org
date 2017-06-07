@@ -1,0 +1,5 @@
+This is a repo for general info about Coursera classes.
+
+* Data Science Track
+  - Data Science specialization info :: https://www.coursera.org/specializations/jhu-data-science
+  - Course Dependancies :: https://d396qusza40orc.cloudfront.net/rprog/doc/JHDSS_CourseDependencies.pdf
